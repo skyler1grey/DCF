@@ -46,6 +46,7 @@ Install OpenSSL (Please refer to https://www.openssl.org to learn more).
 ```txt
 sudo apt-get install openssl
 sudo apt-get install libssl-dev
+sudo apt-get install libssl1.0-dev
 ```
 Build and run the example
 
